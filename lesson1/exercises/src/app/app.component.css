@@ -1,0 +1,8 @@
+hr {
+    border: 2px dotted rgb(14, 134, 214);
+}
+
+body {
+   background-image: url("https://images.unsplash.com/photo-1486314030120-d5ab85fe58cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+    background-color: rgba(165, 42, 42, 0.829)
+}
